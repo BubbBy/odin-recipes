@@ -11,13 +11,8 @@ Finally, I will add a commit message for the project.
 create a pulledPork html file
 add a link to the recipe
 add an image to the recipe then link it with the pulledPork.html
-<<<<<<< HEAD
-
-23:09 29/05: finish this project add two more html files new images updated
-=======
   
 23:09 29/05: 
 finish this project
 add two more html files
 new images updated
->>>>>>> 6b6d5b1a6d10081e877c1582315a6b40ceecc4d4
