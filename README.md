@@ -16,3 +16,8 @@ add an image to the recipe then link it with the pulledPork.html
 finish this project
 add two more html files
 new images updated
+
+
+23:12 02/06
+
+change from ls --> to indexList in css file line 13
